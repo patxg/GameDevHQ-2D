@@ -1,1 +1,1 @@
-# GameDevHQ-2D
+# GameDevHQ-Galaxy Shooter 2D
